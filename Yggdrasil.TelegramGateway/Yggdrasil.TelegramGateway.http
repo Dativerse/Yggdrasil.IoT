@@ -1,0 +1,6 @@
+@Yggdrasil.TelegramGateway_HostAddress = http://localhost:5031
+
+GET {{Yggdrasil.TelegramGateway_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
